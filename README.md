@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn web development, and database
-- ⚡ Fun fact: I love to listen music and play video ames ! 👾
+- ⚡ Fun fact: I love to listen music and play video games ! 👾
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
