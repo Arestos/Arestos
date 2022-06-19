@@ -1,6 +1,6 @@
 ### Hi there, I'm Arès 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/LordRixas?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LordRixas)
+[![Twitter Follow]https://img.shields.io/twitter/follow/LordRixas?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/LordRixas
 
 ## I'm a Student and a Developer.
 
