@@ -33,6 +33,6 @@
 
 </details>
 
-[twitter]: https://twitter.com/LordRixas
+[twitter]: https://twitter.com/Arestosx
 [instagram]: https://www.instagram.com/areslxsd/
 
